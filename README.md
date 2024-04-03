@@ -1,5 +1,5 @@
 Hi, I’m @j-symons.\
-I'm currently studying towards my BSc (Hons) Computing and IT in Cyber Security.
+I'm currently studying towards my BSc (Hons) in Cyber Security.
 
 
 # Education
